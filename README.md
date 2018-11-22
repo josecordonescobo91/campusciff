@@ -4,6 +4,8 @@ Creamos repositorio:
 
 Comando git clone (creamos repositorio en nuestro local):
 
+NOMBREURLJose Gomezhttps://github.com/JoseGomez92/pulgogato.git
+
 
 
 
