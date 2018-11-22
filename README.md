@@ -48,10 +48,18 @@ Crear rama(v02 y también cree vprueba):
 ![texto cualquiera por si no carga la imagen](imagenes/18.jpg)
 ![texto cualquiera por si no carga la imagen](imagenes/18.1.jpg)
 
+
+
+
+
 Nos posicionamos en la v02:
 ![texto cualquiera por si no carga la imagen](imagenes/19.jpg)
 Creamos y subimos el fichero 2.txt:
 ![texto cualquiera por si no carga la imagen](imagenes/20.jpg)
+
+
+
+
 
 Hacemos un merge:
 ![texto cualquiera por si no carga la imagen](imagenes/21.jpg)
@@ -59,8 +67,16 @@ Hacemos un merge:
 En 1.txt en la rama master ponemos hola y hacemos un commit:
 ![texto cualquiera por si no carga la imagen](imagenes/22.jpg)
 
+
+
+
+
 En la rama v02, en el fichero 1.txt ponemos algo y hacemos commit:
 ![texto cualquiera por si no carga la imagen](imagenes/23.jpg)
+
+
+
+
 
 Listamos las ramas:
 ![texto cualquiera por si no carga la imagen](imagenes/24.jpg)
@@ -68,8 +84,18 @@ Listamos las ramas:
 Creamos un tag:
 ![texto cualquiera por si no carga la imagen](imagenes/25.jpg)
 
+
+
+
+
+
 Borramos la rama v02:
 ![texto cualquiera por si no carga la imagen](imagenes/26.jpg)
+
+
+
+
+
 
 Listamos tag:
 ![texto cualquiera por si no carga la imagen](imagenes/27.jpg)
