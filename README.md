@@ -1,6 +1,6 @@
 # campusciff
 Creamos repositorio:
-![Alt text]( C:\dei\dei – git\1.jpg?raw=true "Title")
+![texto cualquiera por si no carga la imagen]( C:\dei\dei – git\1.jpg)
 
 Comando git clone (creamos repositorio en nuestro local):
 
