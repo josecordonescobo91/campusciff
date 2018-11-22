@@ -39,7 +39,7 @@ Cuenta(cambiarfoto):
 ![texto cualquiera por si no carga la imagen](imagenes/16.jpg)
 
 Tabla:
-NOMBREGITHUBJOSE GOMEZhttps://github.com/JoseGomez92
+![texto cualquiera por si no carga la imagen](imagenes/tabla.jpg)
 
 //SEGUNDA PARTE:
 
@@ -50,16 +50,16 @@ Crear rama(v02 y también cree vprueba):
 
 Nos posicionamos en la v02:
 ![texto cualquiera por si no carga la imagen](imagenes/19.jpg)
-Creamos y subimos el fichero 2.txt
+Creamos y subimos el fichero 2.txt:
 ![texto cualquiera por si no carga la imagen](imagenes/20.jpg)
 
 Hacemos un merge:
 ![texto cualquiera por si no carga la imagen](imagenes/21.jpg)
 
-En 1.txt en la rama master ponemos hola y hacemos un commit
+En 1.txt en la rama master ponemos hola y hacemos un commit:
 ![texto cualquiera por si no carga la imagen](imagenes/22.jpg)
 
-En la rama v02, en el fichero 1.txt ponemos algo y hacemos commit
+En la rama v02, en el fichero 1.txt ponemos algo y hacemos commit:
 ![texto cualquiera por si no carga la imagen](imagenes/23.jpg)
 
 Listamos las ramas:
