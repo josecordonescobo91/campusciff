@@ -59,9 +59,10 @@ Crear rama(v02 y también cree vprueba):-----------------------------------------
 ![texto cualquiera por si no carga la imagen](imagenes/18.jpg)
 ![texto cualquiera por si no carga la imagen](imagenes/18.1.jpg)
 
-Nos posicionamos en la v02:------------------------------------------------------
+Nos posicionamos en la v02:---------------------------------------------------------------------------------------------------
 ![texto cualquiera por si no carga la imagen](imagenes/19.jpg)
-Creamos y subimos el fichero 2.txt:----------------------------------------------
+
+Creamos y subimos el fichero 2.txt:-------------------------------------------------------------------------------------
 ![texto cualquiera por si no carga la imagen](imagenes/20.jpg)
 
 Hacemos un merge:----------------------------------------------------------------
